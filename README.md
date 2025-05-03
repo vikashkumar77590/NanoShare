@@ -43,8 +43,7 @@ A peer-to-peer (P2P) file transfer application that enables users to share files
 
 
 Feel free to reach out to me through the following channels:
-- **Email:** bkvats2394@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/bhupender-kumar-sharma-2a144a2a7
-- **X:** https://x.com/BSharma10111
+- **Email:** vk.vikashkumar229@gmail.com
+
 
 Let me know if you need help refining this further! 😊
